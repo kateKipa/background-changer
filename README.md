@@ -1,1 +1,1 @@
-# backround-changer
+The interface features two tabs. Each tab leads to a separate page containing a button. On the main page, clicking the button, randomly changes the background color to one of several basic colors. Otherwise, on the rich page, clicking the button, randomly changes the background color, among all the available colors. I use jQuery library for simplicity in the javaScript code.
